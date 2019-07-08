@@ -1,0 +1,2 @@
+deb http://snapshot.debian.org/archive/debian/20190708T033000Z oldoldstable main
+deb http://snapshot.debian.org/archive/debian-security/20190708T033000Z oldoldstable/updates main
